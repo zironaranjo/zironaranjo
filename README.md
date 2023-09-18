@@ -1,6 +1,6 @@
 <div id="header" align="center">
-        `<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR1dTViMjdxc2IzcDNxZjk3OTJ2cGttaTl3YW5rMHA3NnB3dTl6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif"
-           width="200" style="border: 1px solid #ccc;" />`
+        <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR1dTViMjdxc2IzcDNxZjk3OTJ2cGttaTl3YW5rMHA3NnB3dTl6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif"
+           width="200" style="border: 1px solid #ccc;" />
         <h1 align="center">Hi  I'm Ziro </h1>
         <h3 align="center">A passionate frontend web developer from Madrid. I like React.</h3>
     </div>
