@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZiroRepository</title>
-</head>
-<body>
+
     <div id="header" align="center">
         <img src="https://media2.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47nbwr9h3oauhbimrbf6p1hggatdmyombdy6qyhiv6&ep=v1_stickers_search&rid=giphy.gif&ct=ts
         " width="200" />
@@ -50,7 +43,6 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
     ![ GitHub Ziro stats](https://github-readme-stats.vercel.app/api?username=ziro&show_icons=true&theme=radical)
-</body>
-</html>
+
 
 
