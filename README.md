@@ -1,6 +1,6 @@
 <div id="header" align="center">
         <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-           width="200" height="300"  />
+           width="300" height="200"  />
         <h1 align="center">Hi  I'm Ziro </h1>
         <h3 align="center">A passionate frontend web developer from Madrid. I like React.</h3>
     </div>
