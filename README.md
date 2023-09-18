@@ -30,7 +30,7 @@ I'm a self-taught passionate FrontEnd developer from Madrid
 #### Top Repositories
 
 
-<a(http://github-readme-streak-stats.herokuapp.com?user=ZIRO&theme=merko&hide_border=true)](https://git.io/streak-stats)></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZIRO&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
