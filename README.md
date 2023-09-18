@@ -1,6 +1,6 @@
 <div id="header" align="center">
-        <img src="https://media2.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47nbwr9h3oauhbimrbf6p1hggatdmyombdy6qyhiv6&ep=v1_stickers_search&rid=giphy.gif&ct=ts
-        " width="200" />
+        <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR1dTViMjdxc2IzcDNxZjk3OTJ2cGttaTl3YW5rMHA3NnB3dTl6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif"
+         width="200" />
         <h1 align="center">Hi  I'm Ziro </h1>
         <h3 align="center">A passionate frontend web developer from Madrid. I like React.</h3>
     </div>
@@ -30,20 +30,4 @@ I'm a self-taught passionate FrontEnd developer from Madrid
 #### Top Repositories
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZIRO&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-   
-    
