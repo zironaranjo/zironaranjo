@@ -10,10 +10,9 @@ I'm a self-taught passionate FrontEnd developer from Madrid
 
 **About me**
 
-- 💼 FrontEnd Engineer at 
+- 💼 FrontEnd Developer 
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
+  
 - ❤️ I love writing Javascript,React and building fun experiments on type-level
 
 
